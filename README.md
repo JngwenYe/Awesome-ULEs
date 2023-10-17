@@ -16,7 +16,9 @@ A collection of academic articles, published methodology, and datasets on the su
 
 ## Unlearnable Examples
 
-![ULEs](figs/unlearn.png) Unlearnable examples (ULEs) refer to data points or scenarios that are exceptionally challenging or even impossible for machine learning models to learn or generalize from due to factors such as noisy data, lack of information, complexity, conceptual limitations, adversarial input, or insufficient data, posing significant challenges to the capabilities of the models. Researchers continuously strive to overcome these limitations through algorithmic improvements and data enhancements..
+![ULEs](figs/unlearn.png) 
+
+Unlearnable examples (ULEs) refer to data points or scenarios that are exceptionally challenging or even impossible for machine learning models to learn or generalize from due to factors such as noisy data, lack of information, complexity, conceptual limitations, adversarial input, or insufficient data, posing significant challenges to the capabilities of the models. Researchers continuously strive to overcome these limitations through algorithmic improvements and data enhancements..
 
 
 ## Common Experimental Settings
