@@ -15,6 +15,7 @@ A collection of academic articles, published methodology, and datasets on the su
 
 
 ## Unlearnable Examples
+
 ![ULEs](figs/unlearn.png) Unlearnable examples (ULEs) refer to data points or scenarios that are exceptionally challenging or even impossible for machine learning models to learn or generalize from due to factors such as noisy data, lack of information, complexity, conceptual limitations, adversarial input, or insufficient data, posing significant challenges to the capabilities of the models. Researchers continuously strive to overcome these limitations through algorithmic improvements and data enhancements..
 
 
@@ -40,7 +41,6 @@ A collection of academic articles, published methodology, and datasets on the su
 
 
 ## Published Papers
-<br>
 
 ### Generating ULEs
 | **Paper Title** | **Year** | **Author** | **Venue** | **Method** | **Code** |
@@ -57,8 +57,8 @@ A collection of academic articles, published methodology, and datasets on the su
 ### Against ULEs
 | **Paper Title** | **Year** | **Author** | **Venue** | **Method** | **Code** |
 | --------------- | :----: | ---- | :----: | :----: | :----: | 
-|[Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples](https://arxiv.org/abs/2305.09241)|2023|Jiang et al.|MM||[[Code]](https://github.com/jiangw-0/LE_JCDP)|
+|[Unlearnable Examples Give a False Sense of Security: Piercing through Unexploitable Data with Learnable Examples](https://arxiv.org/abs/2305.09241)|2023|Jiang et al.|MM|Diffusion-based |[[Code]](https://github.com/jiangw-0/LE_JCDP)|
 |[Image Shortcut Squeezing: Countering Perturbative Availability Poisons with Compression.](https://arxiv.org/abs/2301.13838)|2023| Liu et al.|ICML| Compression-based Method | [[Code]](https://github.com/liuzrcc/ImageShortcutSqueezing)|
 [Learning the Unlearnable: Adversarial Augmentations Suppress Unlearnable Example Attacks](https://arxiv.org/abs/2303.15127)|2023|Qin et al.|Arxiv | Adversarial augmentations|[[Code]](https://github.com/lafeat/ueraser)|
-[The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models](https://arxiv.org/abs/2303.08500)|2023|
+[The Devil's Advocate: Shattering the Illusion of Unexploitable Data using Diffusion Models](https://arxiv.org/abs/2303.08500)|2023|Dolatabadi et al. |Arxiv|Diffusion-based |-|
 ------
